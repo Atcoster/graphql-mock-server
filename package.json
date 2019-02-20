@@ -10,7 +10,6 @@
 		"nodemon": "^1.18.10"
 	},
 	"scripts": {
-		"start": "nodemon start.js",
-		"build": "react-scripts build"
+		"start": "nodemon start.js"
 	}
 }
